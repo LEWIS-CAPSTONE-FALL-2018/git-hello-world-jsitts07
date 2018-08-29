@@ -10,11 +10,7 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.WriteLine("Hello World!");
-=======
-            Console.WriteLine("Hello World");
->>>>>>> b947e008106d0c59f6dff66329b35a201e2a57e3
         }
     }
 }
